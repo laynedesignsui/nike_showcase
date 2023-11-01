@@ -1,3 +1,4 @@
+//! ICON IMPORT
 import { star } from "../assets/icons";
 
 const PopularProductCard = ({ imgURL, name, price }) => {

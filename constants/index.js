@@ -1,3 +1,5 @@
+//? this code exports several data arrays, each containing information for different sections of a website
+
 import { facebook, instagram, shieldTick, support, truckFast, twitter } from "../src/assets/icons";
 
 import { bigShoe1, bigShoe2, bigShoe3, customer1, customer2, shoe4, shoe5, shoe6, shoe7, thumbnailShoe1, thumbnailShoe2, thumbnailShoe3 } from "../src/assets/images";

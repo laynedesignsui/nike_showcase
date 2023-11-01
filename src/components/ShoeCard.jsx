@@ -1,4 +1,6 @@
 const ShoeCard = ({ imgURL, changeBigShoeImage, bigShoeImg }) => {
+
+  //? handles what happens when the button gets clicked
   const handleClick = () => {
     if (bigShoeImg !== imgURL.bigShoe) {
       changeBigShoeImage(imgURL.bigShoe);

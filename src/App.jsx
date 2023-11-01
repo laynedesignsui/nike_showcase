@@ -1,3 +1,5 @@
+//? layout of the website
+
 import {
   CustomerReviews,
   Hero,
@@ -5,7 +7,7 @@ import {
   Services,
   SpecialOffer,
   Subscribe,
-  SuperQaulity,
+  SuperQuality,
   Footer,
   Nav
 } from "./sections";
@@ -21,7 +23,7 @@ const App = () => {
         <PopularProducts />
       </section>
       <section className="padding">
-        <SuperQaulity />
+        <SuperQuality />
       </section>
       <section className="padding-x py-10">
         <Services />

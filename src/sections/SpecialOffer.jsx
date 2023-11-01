@@ -1,9 +1,11 @@
+//! ICON IMPORT
 import { arrowRight } from "../assets/icons";
+//! IMAGE IMPORT
 import { offer } from "../assets/images";
+//! COMPONENT IMPORT
 import Button from "../components/Button";
 
-const SpecialOffer = () => {
-  return (
+const SpecialOffer = () => (
     <section className='flex justify-between items-center max-xl:flex-col-reverse gap-10 max-container'>
       <div className='flex-1'>
         <img
@@ -41,6 +43,6 @@ const SpecialOffer = () => {
       </div>
     </section>
   );
-};
+
 
 export default SpecialOffer;

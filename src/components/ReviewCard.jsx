@@ -1,4 +1,4 @@
-import React from "react";
+//! ICON IMPORT
 import { star } from "../assets/icons";
 
 const ReviewCard = ({ imgURL, customerName, rating, feedback }) => {

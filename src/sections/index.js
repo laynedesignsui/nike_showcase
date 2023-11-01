@@ -1,3 +1,5 @@
+//? this code exports several components that can be used in a web application
+
 import Hero from "./Hero";
 import CustomerReviews from "./CustomerReviews";
 import Footer from "./Footer";
@@ -5,7 +7,7 @@ import PopularProducts from "./PopularProducts";
 import Services from "./Services";
 import SpecialOffer from "./SpecialOffer";
 import Subscribe from "./Subscribe";
-import SuperQaulity from "./SuperQaulity";
+import SuperQuality from "./SuperQuality";
 import Nav from "../components/Nav";
 
 export {
@@ -16,6 +18,6 @@ export {
     Services,
     SpecialOffer,
     Subscribe,
-    SuperQaulity,
+    SuperQuality,
     Nav
 }

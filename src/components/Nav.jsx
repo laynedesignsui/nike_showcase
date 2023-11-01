@@ -1,7 +1,8 @@
+//! IMAGE IMPORT
 import { headerLogo } from "../assets/images";
-
+//! ICON IMPORT
 import { hamburger } from "../assets/icons";
-
+//! CONSTANTS IMPORT
 import { navLinks } from "../../constants";
 
 const Nav = () => {

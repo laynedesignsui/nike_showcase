@@ -1,3 +1,5 @@
+//? used to create buttons with customizable properties, including the button's label, icon, background color, text color, border color, and whether it should span the full width of its container
+
 const Button = ({
   label,
   iconUrl,
